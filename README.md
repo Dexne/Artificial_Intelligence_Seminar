@@ -10,4 +10,5 @@ Menú:
 - [Métodos de regresión regulados](https://github.com/Dexne/Artificial_Intelligence_Seminar/tree/main/02_Metodos_de_regresion_regulados)
 - [Modelos autorregresivos](https://github.com/Dexne/Artificial_Intelligence_Seminar/tree/main/03_Modelos_Autorregresivos)
 - [Modelos de regresión No lineal](https://github.com/Dexne/Artificial_Intelligence_Seminar/tree/main/04_Modelos_de_Regresion_No_Lineal)
+- [Clasificadores](https://github.com/Dexne/Artificial_Intelligence_Seminar/tree/main/05_Comparaci%C3%B3n_de_clasificadores)
 

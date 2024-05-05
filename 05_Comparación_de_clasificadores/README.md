@@ -32,6 +32,13 @@ En este notebook, se compara el rendimiento de varios algoritmos de clasificaci�
 
 Los clasificadores se evalúan en términos de su capacidad para separar las clases en los conjuntos de datos proporcionados. Se muestra la frontera de decisión generada por cada clasificador y se calcula la precisión en los conjuntos de datos de entrenamiento y prueba.
 
+![KNN](https://github.com/Dexne/Artificial_Intelligence_Seminar/blob/main/05_Comparaci%C3%B3n_de_clasificadores/img/01_KNN.png)
+![SVM](https://github.com/Dexne/Artificial_Intelligence_Seminar/blob/main/05_Comparaci%C3%B3n_de_clasificadores/img/02_SVM.png)
+![Proceso_Gaussiano](https://github.com/Dexne/Artificial_Intelligence_Seminar/blob/main/05_Comparaci%C3%B3n_de_clasificadores/img/03_Proceso_Gaussiano.png)
+![DecisionTree](https://github.com/Dexne/Artificial_Intelligence_Seminar/blob/main/05_Comparaci%C3%B3n_de_clasificadores/img/04_DecisionTree.png)
+![MLP](https://github.com/Dexne/Artificial_Intelligence_Seminar/blob/main/05_Comparaci%C3%B3n_de_clasificadores/img/05_MLP.png)
+![Bayes](https://github.com/Dexne/Artificial_Intelligence_Seminar/blob/main/05_Comparaci%C3%B3n_de_clasificadores/img/06_Bayes.png)
+
 ## Instrucciones de Ejecución
 
 1. Ejecute cada celda del notebook en orden para cargar los datos, entrenar los clasificadores y visualizar los resultados.
