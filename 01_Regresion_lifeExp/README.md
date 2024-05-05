@@ -2,6 +2,8 @@
 
 Este proyecto utiliza regresión lineal para predecir la esperanza de vida en México a lo largo del tiempo.
 
+La regresión lineal en IA es un método para modelar la relación entre una o varias variables independientes (características) y una variable dependiente (objetivo) mediante una función lineal. Su objetivo es predecir el valor de la variable dependiente en función de las variables independientes, asumiendo una relación lineal entre ellas. En resumen, la regresión lineal busca encontrar la mejor línea recta que se ajuste a los datos, lo que permite hacer predicciones basadas en esa relación lineal.
+
 ## Requisitos
 - Python 3.x
 - Pandas

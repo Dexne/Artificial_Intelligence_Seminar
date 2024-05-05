@@ -2,6 +2,8 @@
 
 Este cuaderno de Google Colab que contiene la implementación de varios modelos de regresión no lineal utilizando diferentes algoritmos de aprendizaje automático como árboles de decisión, k vecinos más cercanos (KNN), máquinas de vectores de soporte (SVM), kernel ridge, y redes neuronales artificiales (MLP).
 
+Los modelos de regresión no lineal son un tipo de modelo utilizado en análisis estadístico y aprendizaje automático para modelar relaciones no lineales entre variables. A diferencia de los modelos de regresión lineal, que asumen una relación lineal entre las variables predictoras y la variable de respuesta, los modelos de regresión no lineal permiten capturar relaciones más complejas y no lineales. Estos modelos pueden ser útiles cuando la relación entre las variables no se ajusta bien a una forma lineal y pueden involucrar funciones no lineales como polinomios, exponenciales, logaritmos u otras funciones complicadas.
+
 ## Descripción del Contenido
 
 El cuaderno `Modelos_de_Regresion_No_Lineal.ipynb` presenta la implementación de los siguientes modelos de regresión no lineal:
