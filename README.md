@@ -6,9 +6,9 @@ El siguiente espacio es un compendio donde integro mis códigos realizados duran
 
 Menú:
 
-- [Regresión Lineal - Esperanza de vida](https://github.com/Dexne/Artificial_Intelligence_Seminar/tree/main/01_Regresion_lifeExp)
-- [Métodos de regresión regulados](https://github.com/Dexne/Artificial_Intelligence_Seminar/tree/main/02_Metodos_de_regresion_regulados)
-- [Modelos autorregresivos](https://github.com/Dexne/Artificial_Intelligence_Seminar/tree/main/03_Modelos_Autorregresivos)
-- [Modelos de regresión No lineal](https://github.com/Dexne/Artificial_Intelligence_Seminar/tree/main/04_Modelos_de_Regresion_No_Lineal)
-- [Clasificadores](https://github.com/Dexne/Artificial_Intelligence_Seminar/tree/main/05_Comparaci%C3%B3n_de_clasificadores)
+- [01 Regresión Lineal - Esperanza de vida](https://github.com/Dexne/Artificial_Intelligence_Seminar/tree/main/01_Regresion_lifeExp)
+- [02 Métodos de regresión regulados](https://github.com/Dexne/Artificial_Intelligence_Seminar/tree/main/02_Metodos_de_regresion_regulados)
+- [03 Modelos autorregresivos](https://github.com/Dexne/Artificial_Intelligence_Seminar/tree/main/03_Modelos_Autorregresivos)
+- [04 Modelos de regresión No lineal](https://github.com/Dexne/Artificial_Intelligence_Seminar/tree/main/04_Modelos_de_Regresion_No_Lineal)
+- [05 Clasificadores](https://github.com/Dexne/Artificial_Intelligence_Seminar/tree/main/05_Comparaci%C3%B3n_de_clasificadores)
 
