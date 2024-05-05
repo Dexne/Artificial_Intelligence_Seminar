@@ -12,9 +12,9 @@ Este proyecto utiliza regresión lineal para predecir la esperanza de vida en M�
 ## Instalació de dependencias
 Para instalar las dependencias necesarias utilizando pip:
 
-````markdown
-```sh
+```
 pip install pandas numpy matplotlib scikit-learn
+```
 
 ## Uso
 
