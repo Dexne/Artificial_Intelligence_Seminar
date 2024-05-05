@@ -33,7 +33,3 @@ pip install pandas numpy matplotlib scikit-learn
 ## Contribución
 
 Si deseas contribuir a este proyecto, ¡eres bienvenido! Siéntete libre de hacer un fork del repositorio, hacer cambios y enviar un pull request.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo `LICENSE`.
