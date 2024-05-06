@@ -32,7 +32,7 @@ pip install scikit-learn numpy matplotlib
 
 ## Resultados:
 
-![digitosAgrupados]()
+![digitosAgrupados](https://github.com/Dexne/Artificial_Intelligence_Seminar/blob/main/10_TNSE/digitosAgrupados.png)
 
 ## Contribuciones
 
