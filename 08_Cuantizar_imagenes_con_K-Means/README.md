@@ -38,19 +38,19 @@ pip install numpy matplotlib scikit-learn
 
 Imagen original
 
-![Original]()
+![Original](https://github.com/Dexne/Artificial_Intelligence_Seminar/blob/main/08_Cuantizar_imagenes_con_K-Means/img/frutas.jpg)
 
 Imagen con dos colores
 
-![dosColores]()
+![dosColores](https://github.com/Dexne/Artificial_Intelligence_Seminar/blob/main/08_Cuantizar_imagenes_con_K-Means/img/Quantized_image_2_colores.png)
 
 Imagen con ocho colores
 
-![ochoColores]()
+![ochoColores](https://github.com/Dexne/Artificial_Intelligence_Seminar/blob/main/08_Cuantizar_imagenes_con_K-Means/img/Quantized_image_2_colores.png)
 
 Imagen con 32 colores
 
-![colores32]()
+![colores32](https://github.com/Dexne/Artificial_Intelligence_Seminar/blob/main/08_Cuantizar_imagenes_con_K-Means/img/Quantized_image_32_colores.png)
 
 
 ## Contribuciones
