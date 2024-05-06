@@ -11,4 +11,5 @@ Menú:
 - [03 Modelos autorregresivos](https://github.com/Dexne/Artificial_Intelligence_Seminar/tree/main/03_Modelos_Autorregresivos)
 - [04 Modelos de regresión No lineal](https://github.com/Dexne/Artificial_Intelligence_Seminar/tree/main/04_Modelos_de_Regresion_No_Lineal)
 - [05 Clasificadores](https://github.com/Dexne/Artificial_Intelligence_Seminar/tree/main/05_Comparaci%C3%B3n_de_clasificadores)
+- [06 Métricas de clasificación](https://github.com/Dexne/Artificial_Intelligence_Seminar/tree/main/06_M%C3%A9tricas_de_clasificaci%C3%B3n)
 
