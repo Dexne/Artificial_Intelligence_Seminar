@@ -13,4 +13,5 @@ Menú:
 - [05 Clasificadores](https://github.com/Dexne/Artificial_Intelligence_Seminar/tree/main/05_Comparaci%C3%B3n_de_clasificadores)
 - [06 Métricas de clasificación](https://github.com/Dexne/Artificial_Intelligence_Seminar/tree/main/06_M%C3%A9tricas_de_clasificaci%C3%B3n)
 - [07 MNIST con Escalado, PCA y SVM](https://github.com/Dexne/Artificial_Intelligence_Seminar/tree/main/07_MNIST_con_Scaler_PCA_SVM)
+- (08 Cuantizar imagenes con K-Means)(https://github.com/Dexne/Artificial_Intelligence_Seminar/tree/main/08_Cuantizar_imagenes_con_K-Means)
 
