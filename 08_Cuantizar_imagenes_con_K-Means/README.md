@@ -46,7 +46,7 @@ Imagen con dos colores
 
 Imagen con ocho colores
 
-![ochoColores](https://github.com/Dexne/Artificial_Intelligence_Seminar/blob/main/08_Cuantizar_imagenes_con_K-Means/img/Quantized_image_2_colores.png)
+![ochoColores](https://github.com/Dexne/Artificial_Intelligence_Seminar/blob/main/08_Cuantizar_imagenes_con_K-Means/img/Quantized_image_with_K-Means_8_colores.png)
 
 Imagen con 32 colores
 
