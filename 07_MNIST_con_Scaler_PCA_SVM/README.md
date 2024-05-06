@@ -40,9 +40,9 @@ pip install numpy matplotlib scikit-learn
 
 ## Resultados obtenidos:
 
-![Figure1]()
-![Figure2]()
-![Figure3]()
+![Figure1](https://github.com/Dexne/Artificial_Intelligence_Seminar/blob/main/07_MNIST_con_Scaler_PCA_SVM/img/Figure_1.png)
+![Figure2](https://github.com/Dexne/Artificial_Intelligence_Seminar/blob/main/07_MNIST_con_Scaler_PCA_SVM/img/Figure_2.png)
+![Figure3](https://github.com/Dexne/Artificial_Intelligence_Seminar/blob/main/07_MNIST_con_Scaler_PCA_SVM/img/Figure_3.png)
 
 ## Contribuciones
 
