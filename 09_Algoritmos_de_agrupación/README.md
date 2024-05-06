@@ -18,25 +18,25 @@ Se utilizan seis conjuntos de datos generados artificialmente para evaluar el re
 Los resultados de los diferentes algoritmos de agrupación se visualizan en gráficos para cada conjunto de datos. Se comparan las agrupaciones obtenidas por cada algoritmo y se evalúa su rendimiento utilizando métricas como la homogeneidad, la completitud y la puntuación Fowlkes-Mallows.
 
 Datos
-![Normal]()
+![Normal](https://github.com/Dexne/Artificial_Intelligence_Seminar/blob/main/09_Algoritmos_de_agrupaci%C3%B3n/img/01_plots.png)
 
 KMeans
-![Kmeans]()
+![Kmeans](https://github.com/Dexne/Artificial_Intelligence_Seminar/blob/main/09_Algoritmos_de_agrupaci%C3%B3n/img/02_KMeans.png)
 
 Birch
-![Birch]()
+![Birch](https://github.com/Dexne/Artificial_Intelligence_Seminar/blob/main/09_Algoritmos_de_agrupaci%C3%B3n/img/03_Birch.png)
 
 SpectralClustering
-![SpectralClustering]()
+![SpectralClustering](https://github.com/Dexne/Artificial_Intelligence_Seminar/blob/main/09_Algoritmos_de_agrupaci%C3%B3n/img/04_SpectralClustering.png)
 
 GaussianMixture
-![GaussianMixture]()
+![GaussianMixture](https://github.com/Dexne/Artificial_Intelligence_Seminar/blob/main/09_Algoritmos_de_agrupaci%C3%B3n/img/05_GaussianMixture.png)
 
 OPTICS
-![OPTICS]()
+![OPTICS](https://github.com/Dexne/Artificial_Intelligence_Seminar/blob/main/09_Algoritmos_de_agrupaci%C3%B3n/img/06_Optics.png)
 
 BDSCAN
-![BDSCAN]()
+![BDSCAN](https://github.com/Dexne/Artificial_Intelligence_Seminar/blob/main/09_Algoritmos_de_agrupaci%C3%B3n/img/07_BDSCAN.png)
 
 
 ## Bibliotecas Utilizadas
